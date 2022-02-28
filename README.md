@@ -24,3 +24,8 @@ nmap www.google.com
 ```
 nmap -sP 192.168.10.0/24
 ```
+
+## Reference
+
+- link (https://nmap.org/)
+- learning (https://www.geeksforgeeks.org/nmap-command-in-linux-with-examples/)
